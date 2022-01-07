@@ -20,4 +20,5 @@ The tasks that I completed are as follows :
   - Arrange the characters in one line with the sequence: AB123C
   - Rotate the output image from Step 6 about its center by 30 degrees.
 
-* The details are described in the report "MachineVision_Team_Project.pdf".
+Note : 1. The details are described in the report "MachineVision_Team_Project.pdf".
+       2. To run the kNN code, the zip file needs to be un-zipped first.
